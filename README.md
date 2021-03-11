@@ -114,13 +114,20 @@ As a final task I had to include a written description of three observable trend
 
 ## References
 
-**Please note: I am new to .md files and I cant seem to indent the reference following the APA guidelines**
+Atuesta, J. D., & ashkangh. (2021, March 11). *Using
+Pandas in Jupyter Lab how can I modify the value of a column in a data frame*. Retrieved from stack overflow: https://stackoverflow.com/questions/66552939/using-pandas-in-jupyer-lab-how-can-i-modify-the-value-of-a-column-in-a-data-fram/66553022?noredirect=1#comment117652439_66553022
 
+Devlin, J. (2016, October 12). *28 Jupyter Notebook Tips, Tricks, and Shortcuts*. Retrieved from DATAQUEST: https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/
+
+Sharma, P. (2020, May 12). *Count, Value Count, Unique Functions in Pandas | Python.* Retrieved from YouTube: https://www.youtube.com/watch?v=JINEt8QwkwE
+
+Willems, K. (2019, January 14). *Pandas Tutorial: DataFrames in Python*. Retrieved from datacamp: https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python#question1
+
+**Please note: I am new to .md files and I cant seem to indent the reference following the APA guidelines**
 
 ---
 
 ## Assignment instructions provided by Northwestern Data Science Bootcamp
-
 
 ### Pandas Homework - Pandas, Pandas, Pandas
 
