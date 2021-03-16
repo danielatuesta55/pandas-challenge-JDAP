@@ -18,7 +18,7 @@ March, 2021
 
 ### Inside of this repository
 
-The reader will encounter my solution to the homework assignment Pandas-challange. The repository is organized in folders and a README.md (The file you are currently reading). Here is the list of the folders and its contents so you can navigate through them.
+The reader will encounter my solution to the homework assignment Pandas-challange. The repository is organized in folders and a README.md (The file you are currently reading). Please specifically look at the analysis portion of the excercise. Here is the list of the folders and its contents so you can navigate through them.
 
 1. Images: In this folder you will find the images for the instructions provided by the institution. *You can skip this folder if you want*.
 2. HeroesOfPymoli: In this folder you will find all the solutions for the HeroesOfPymoli excercise. Insided the folder you will find two other folders and one ipynb file:
@@ -41,6 +41,23 @@ I hope you find my work to not only be complete but displaying all the knowledge
 Using Pandas I was tasked with analyzing the data for the recent fantasy game Heroes of Pymoli. As a first task, I had to generate a report that breaks down the game's purchasing data into meaningful insights
 
 ---
+
+### Project Analysis
+
+From the data analysis portion, the following data trends emerged:
+
+The first trend observed in the data is the game is attracting more male players than other genders. As shown in the data, 84.03% of the players identify as male.
+
+The second trend is interesting when it comes to the spending portion by gender. Suppose you look closely at the average spending per individual divided by gender. In that case, you can see that the people who identify as others spend an average of $4.56, individuals who identify themselves as females spend an average of $4.47, and individuals who identify themselves are as men spend an average of $4.07. With this said, it's important to note that more users identify as male forcing the spending average to diminish compared to the other genders. The critical part of this data trend is to let the company know of its success and potential customers behaviors (by gender), so they can decide if they want to target them as potential users or focus on users that identify themselves as male, knowing the revenue that each gender can provide.
+
+The third data trend that is significant to point out is the user's average age. From the analysis, it is clear that most of the game's users fall within 20 – 24 years. Even though the game doesn't attract as many users from ages ten and under, this is a potential category as these users tend to spend more money on average per user than other classes ($ 4.54), making it a key target for income when it comes to in-game purchases. Another age group to look at when it comes to revenue is the age group 35-40, as they have the highest average spent per person ($4.76).
+
+
+The last data trend observed is related to the most purchased items and most profitable items for the game. This is key for a company to see where the profit comes from and potentially increase its sales from them. Understanding that the item "final critic" is popular amongst the users and the most profitable, the company can increase its price as it is in high demand. The company can also make the item "nirvana" a profitable item that becomes more popular amongst users to generate more revenue.
+
+---
+
+
 
 ### Project Results Summary
 
